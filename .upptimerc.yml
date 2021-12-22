@@ -1,31 +1,55 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: RecapTime
+repo: status-page
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Squad Website
+    url: https://recaptime.tk
+  - name: Vaultwarden - Self-hosted Public
+    url: https://bw.rtapp.tk//alive
+  - name: golinks
+    url: https://go.rtapp.tk/ping
+  - name: Link Shortener Service
+    url: https://rtapp.tk
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.rtapp.tk
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Recap Time Infra Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Home
       href: /
-    - title: GitHub
+    - title: Issue Tracker
       href: https://github.com/$OWNER/$REPO
+    - title: Community Lores Status
+      href: https://status.community-lores/gq
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Identification purposes on API
+user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/Community-Lores/status-page; integration: upptime)"
+
+# Workflow schedules
+workflowSchedule:
+  graphs: "0 */2 * * *"
+  responseTime: "*/10 * * * *"
+  staticSite: "*/30 * * * *"
+  summary: "0 */1 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "*/30 * * * *"
+  uptime: "*/15 * * * *"
+
+# git config
+commitMessages:
+  commitAuthorName: "Recap Time Bot"
+  commitAuthorEmail: "service-accounts+github@recaptime.tk"
+
+# Other stuff
+skipDescriptionUpdate: false
+skipTopicsUpdate: true
+skipHomepageUpdate: false
+
+# Issue assignees
+assignees:
+  - ajhalili2006
+  - RecapTimeSquad
