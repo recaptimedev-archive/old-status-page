@@ -6,7 +6,7 @@ sites:
   - name: Squad Website
     url: https://recaptime.tk
   - name: Vaultwarden - Self-hosted Public
-    url: https://bw.rtapp.tk//alive
+    url: https://bw.rtapp.tk/alive
   - name: golinks
     url: https://go.rtapp.tk/ping
   - name: Link Shortener Service
@@ -16,8 +16,8 @@ status-website:
   cname: status.rtapp.tk
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Recap Time Infra Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Are Recap Time squad web properties down or we did broke the DNS again?"
+  introMessage: Monitor the uptime of different services powered by Upptime and GitHub Actions.
   navbar:
     - title: Home
       href: /
@@ -27,7 +27,7 @@ status-website:
       href: https://status.community-lores/gq
 
 # Identification purposes on API
-user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/Community-Lores/status-page; integration: upptime)"
+user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/RecapTime/status-page; integration: upptime)"
 
 # Workflow schedules
 workflowSchedule:
