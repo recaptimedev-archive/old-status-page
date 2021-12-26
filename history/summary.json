@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 251,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "time": 476,
+    "timeDay": 250,
+    "timeWeek": 476,
+    "timeMonth": 476,
+    "timeYear": 476,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://bw.rtapp.tk/alive",
     "icon": "https://favicons.githubusercontent.com/bw.rtapp.tk",
     "slug": "vaultwarden-self-hosted-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 689,
+    "time": 687,
     "timeDay": 438,
-    "timeWeek": 689,
-    "timeMonth": 689,
-    "timeYear": 689,
-    "dailyMinutesDown": {}
+    "timeWeek": 687,
+    "timeMonth": 687,
+    "timeYear": 687,
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   },
   {
     "name": "golinks",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 585,
-    "timeWeek": 836,
-    "timeMonth": 836,
-    "timeYear": 836,
+    "time": 834,
+    "timeDay": 584,
+    "timeWeek": 834,
+    "timeMonth": 834,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 379,
-    "timeWeek": 450,
-    "timeMonth": 450,
-    "timeYear": 450,
+    "time": 449,
+    "timeDay": 378,
+    "timeWeek": 449,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {}
   }
 ]
