@@ -11,20 +11,22 @@ sites:
     url: https://go.rtapp.tk/ping
   - name: Link Shortener Service
     url: https://rtapp.tk
+  #- name: Handbook Website
+  #  url: https://handbook.recaptime.tk
 
 status-website:
   cname: status.rtapp.tk
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Recap Time Infra Status
-  introTitle: "Are Recap Time squad web properties down or we did broke the DNS again?"
-  introMessage: Monitor the uptime of different services powered by Upptime and GitHub Actions.
+  introTitle: "Are we down or we did broke the DNS again?"
+  introMessage: "Monitor the uptime of Recap Time's different services, powered by Upptime and GitHub Actions."
   navbar:
     - title: Home
       href: /
     - title: Issue Tracker
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/$REPO/issues
     - title: Community Lores Status
-      href: https://status.community-lores/gq
+      href: https://status.community-lores.gq
 
 # Identification purposes on API
 user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/RecapTime/status-page; integration: upptime)"
@@ -45,7 +47,7 @@ commitMessages:
   commitAuthorEmail: "service-accounts+github@recaptime.tk"
 
 # Other stuff
-skipDescriptionUpdate: false
+skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: false
 
