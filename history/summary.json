@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 500,
-    "timeWeek": 421,
-    "timeMonth": 399,
-    "timeYear": 399,
+    "time": 398,
+    "timeDay": 475,
+    "timeWeek": 419,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 599,
-    "timeDay": 774,
-    "timeWeek": 620,
+    "timeDay": 756,
+    "timeWeek": 622,
     "timeMonth": 599,
     "timeYear": 599,
     "dailyMinutesDown": {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 592,
-    "timeWeek": 676,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "time": 716,
+    "timeDay": 613,
+    "timeWeek": 680,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/rtapp.tk",
     "slug": "link-shortener-service",
     "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "64.73%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
-    "time": 424,
-    "timeDay": 568,
-    "timeWeek": 444,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "uptime": "97.29%",
+    "uptimeDay": "60.54%",
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
+    "time": 425,
+    "timeDay": 564,
+    "timeWeek": 448,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2022-01-05": 508
+      "2022-01-05": 568
     }
   }
 ]
