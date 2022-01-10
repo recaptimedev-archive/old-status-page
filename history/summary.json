@@ -4,19 +4,19 @@
     "url": "https://recaptime.tk",
     "icon": "https://favicons.githubusercontent.com/recaptime.tk",
     "slug": "squad-website",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "87.97%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "87.86%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 388,
     "timeDay": 385,
     "timeWeek": 382,
     "timeMonth": 388,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-01-10": 173
+      "2022-01-10": 175
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bw.rtapp.tk/alive",
     "icon": "https://favicons.githubusercontent.com/bw.rtapp.tk",
     "slug": "vaultwarden-self-hosted-public",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "88.01%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 596,
     "timeDay": 552,
     "timeWeek": 622,
     "timeMonth": 596,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-01-10": 173,
+      "2022-01-10": 174,
       "2022-01-06": 13,
       "2021-12-26": 5
     }
@@ -46,10 +46,10 @@
     "url": "https://go.rtapp.tk/ping",
     "icon": "https://favicons.githubusercontent.com/go.rtapp.tk",
     "slug": "golinks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "88.04%",
-    "uptimeWeek": "98.29%",
+    "uptimeDay": "87.99%",
+    "uptimeWeek": "98.28%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.37%",
     "time": 687,
@@ -58,7 +58,7 @@
     "timeMonth": 687,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2022-01-10": 172
+      "2022-01-10": 173
     }
   },
   {
@@ -66,15 +66,15 @@
     "url": "https://rtapp.tk",
     "icon": "https://favicons.githubusercontent.com/rtapp.tk",
     "slug": "link-shortener-service",
-    "status": "up",
+    "status": "down",
     "uptime": "92.56%",
-    "uptimeDay": "88.08%",
-    "uptimeWeek": "79.74%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "79.73%",
     "uptimeMonth": "92.56%",
     "uptimeYear": "92.56%",
     "time": 432,
-    "timeDay": 411,
-    "timeWeek": 467,
+    "timeDay": 412,
+    "timeWeek": 466,
     "timeMonth": 432,
     "timeYear": 432,
     "dailyMinutesDown": {
