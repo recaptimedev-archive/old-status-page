@@ -11,8 +11,8 @@ sites:
     url: https://go.rtapp.tk/ping
   - name: Link Shortener Service
     url: https://rtapp.tk
-  #- name: Handbook Website
-  #  url: https://handbook.recaptime.tk
+  - name: Squad Wiki
+    url: https://wiki.rtapp.tk
 
 status-website:
   cname: status.rtapp.tk
