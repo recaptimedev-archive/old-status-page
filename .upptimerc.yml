@@ -4,6 +4,7 @@ repo: status-page
 
 sites:
   - name: Squad Website
+    check: "tcp-ping"
     url: https://recaptime.tk
   - name: Vaultwarden - Self-hosted Public
     url: https://bw.rtapp.tk/alive
@@ -12,6 +13,7 @@ sites:
   - name: Link Shortener Service
     url: https://rtapp.tk
   - name: Squad Wiki
+    check: "tcp-ping"
     url: https://wiki.rtapp.tk
 
 status-website:
