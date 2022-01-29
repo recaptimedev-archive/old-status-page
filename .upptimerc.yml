@@ -4,7 +4,6 @@ repo: status-page
 
 sites:
   - name: Squad Website
-    check: "tcp-ping"
     url: https://recaptime.tk
   - name: Vaultwarden - Self-hosted Public
     url: https://bw.rtapp.tk/alive
@@ -13,7 +12,6 @@ sites:
   - name: Link Shortener Service
     url: https://rtapp.tk
   - name: Squad Wiki
-    check: "tcp-ping"
     url: https://wiki.rtapp.tk
 
 status-website:
@@ -35,7 +33,6 @@ user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/RecapTime/status-pa
 
 # Workflow schedules
 workflowSchedule:
-  graphs: "0 */2 * * *"
   responseTime: "*/10 * * * *"
   staticSite: "*/30 * * * *"
   summary: "0 */1 * * *"
