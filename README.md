@@ -1,3 +1,9 @@
+# THIS REPOSITORY IS DEPRECATED AND REPLACED BY [`RecapTime/infra-monitoring`](https://github.com/RecapTime/infra-monitoring)
+
+The rest of this README contains a outdated snapshot of the last status update below after the seperator.
+
+---
+
 # [📈 Live Status](https://status.rtapp.tk): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page for [Recap Time](https://recaptime.tk), powered by [Upptime](https://github.com/upptime/upptime).
